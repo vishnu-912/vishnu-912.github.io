@@ -1,1 +1,1 @@
-console.log("Being Zero")
+alert("Being Zero")
