@@ -10,10 +10,7 @@ table, th, td {
     border-collapse: collapse;
     width: 100%;
   }
-  th, td {
-    background-color: #00BFFF;
-    padding: 10px;
-  }
+  
   tr:nth-child(even){
     background-color: #f2f2f2;
   }
